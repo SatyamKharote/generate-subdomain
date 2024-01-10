@@ -1,0 +1,5 @@
+Date 17-01-24
+
+Task: Calling API for Subdomain
+
+Objective : The objective of this task is to generate the subdomain for the 
